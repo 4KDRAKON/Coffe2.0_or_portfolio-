@@ -1,0 +1,85 @@
+.our .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 256px;
+}
+
+.our__info {
+  width: 540px;
+}
+
+.our__title {
+  margin: 0;
+  padding: 0;
+  color: rgb(51, 61, 75);
+  font-family: "Fraunces 9pt";
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 48px;
+  letter-spacing: 0px;
+  text-align: left;
+  padding-bottom: 32px;
+  &--light{
+    margin: 0;
+  padding: 0;
+  color: rgb(51, 61, 75);
+  font-family: "Fraunces 9pt";
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 48px;
+  letter-spacing: 0px;
+  text-align: left;
+  padding-bottom: 32px;
+}
+&--dark{
+  margin: 0;
+  padding: 0;
+  color:#FFF;
+  font-family: "Fraunces 9pt";
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 48px;
+  letter-spacing: 0px;
+  text-align: left;
+  padding-bottom: 32px;
+}
+}
+
+.our__text {
+  margin: 0;
+  padding: 0;
+  color: rgb(51, 61, 75);
+  font-family: Barlow;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  opacity: 0.8;
+
+  &--light{
+    margin: 0;
+  padding: 0;
+  color: rgb(51, 61, 75);
+  font-family: Barlow;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  opacity: 0.8;
+}
+&--dark{
+  margin: 0;
+  padding: 0;
+  color: #FFF;
+  font-family: Barlow;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  opacity: 0.8;
+}
+}

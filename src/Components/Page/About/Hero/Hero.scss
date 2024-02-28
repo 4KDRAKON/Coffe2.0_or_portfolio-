@@ -1,0 +1,36 @@
+.hero .container {
+  margin-top: 43px;
+  background-image: url(../Img/hero-bg.jpeg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 1220px;
+  height: 450px;
+  padding-top: 137px;
+  padding-left: 85px;
+}
+
+.hero__heading {
+  margin: 0;
+  padding: 0;
+  color: rgb(254, 252, 247);
+  font-family: "Fraunces 9pt";
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 48px;
+  letter-spacing: 0px;
+  text-align: left;
+  padding-bottom: 24px;
+}
+
+.hero__text {
+  margin: 0;
+  padding: 0;
+  color: rgb(254, 252, 247);
+  font-family: 'Barlow';
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  width: 475px;
+}
